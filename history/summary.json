@@ -4,7 +4,7 @@
     "url": "$STATUSPAGE_BNAPP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bn-app-bn-mob-monteur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 719,
     "timeMonth": 719,
     "timeYear": 719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-06": 0
+    }
   },
   {
     "name": "bnInfocenter.de / mobiler Monteur Classic",
