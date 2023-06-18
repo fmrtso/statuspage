@@ -4,7 +4,7 @@
     "url": "$STATUSPAGE_BNAPP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bn-app-bn-mob-monteur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.14%",
@@ -16,6 +16,7 @@
     "timeMonth": 691,
     "timeYear": 691,
     "dailyMinutesDown": {
+      "2023-06-18": 0,
       "2023-06-15": 87,
       "2023-04-22": 30,
       "2023-04-07": 86,
