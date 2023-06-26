@@ -1,7 +1,7 @@
 url: $STATUSPAGE_BNAPP
-status: up
-code: 200
-responseTime: 809
-lastUpdated: 2023-06-25T23:14:12.530Z
+status: down
+code: 500
+responseTime: 742
+lastUpdated: 2023-06-26T17:49:20.387Z
 startTime: Tue Apr 04 2023 09:07:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
